@@ -1,0 +1,6 @@
+{
+  "processes": [
+    { "command": "node", "args": ["fixtures/server.js"], "timeout": 5000 },
+    { "command": "node", "args": ["fixtures/foo.js"], "timeout": 5000 }
+  ]
+}

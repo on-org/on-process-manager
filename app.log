@@ -1,0 +1,51 @@
+[2023-03-11T15:06:54.554Z] info: Starting process with command "node" and args "worker.js"
+[2023-03-11T15:06:54.682Z] info: Starting process with command "node" and args "worker1.js"
+[2023-03-11T15:06:54.687Z] info: All processes started
+[2023-03-11T15:06:55.592Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:06:55.718Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:06:56.593Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:06:56.719Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:06:57.595Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:06:57.720Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:06:58.597Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:06:58.720Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:06:59.597Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:06:59.721Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:07:00.599Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:07:00.723Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:07:01.601Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:07:01.723Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:50:52.901Z] info: Starting process with command "node" and args "worker.js"
+[2023-03-11T15:50:53.030Z] info: Starting process with command "node" and args "worker1.js"
+[2023-03-11T15:50:53.035Z] info: All processes started
+[2023-03-11T15:50:53.942Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:50:54.068Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:50:54.939Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:50:55.067Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:52:25.577Z] info: Starting process with command "node" and args "worker.js"
+[2023-03-11T15:52:25.710Z] info: Starting process with command "node" and args "worker1.js"
+[2023-03-11T15:52:25.715Z] info: All processes started
+[2023-03-11T15:52:26.618Z] info: Received message from process with command "node": worker
+
+[2023-03-11T15:52:26.752Z] info: Received message from process with command "node": worker1
+
+[2023-03-11T15:52:27.617Z] info: Received message from process with command "node": worker
+

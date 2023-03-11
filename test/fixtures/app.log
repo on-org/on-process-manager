@@ -1,0 +1,549 @@
+[2023-03-11T15:46:58.862Z] info: Processes not running
+[2023-03-11T15:46:59.215Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:46:59.340Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:46:59.347Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:46:59.377Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:09.542Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:09.777Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:09.900Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:09.942Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:20.126Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:20.374Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:20.383Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:20.417Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:30.495Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:30.621Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:30.626Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:30.657Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:40.746Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:40.875Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:40.881Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:40.912Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:51.005Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:51.147Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:47:51.152Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:47:51.184Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:48:01.274Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:01.518Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:01.526Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:48:01.564Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:48:11.644Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:11.770Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:11.777Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:48:11.808Z] info: Process with command "node" exited with code 0
+[2023-03-11T15:48:22.023Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:22.269Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:22.314Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:22.314Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:22.390Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:22.391Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:33.172Z] info: Starting process with command "node" and args "server.js"
+[2023-03-11T15:48:33.358Z] info: Starting process with command "node" and args "foo.js"
+[2023-03-11T15:48:33.362Z] info: All processes started
+[2023-03-11T15:48:33.365Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:33.365Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:33.366Z] info: All processes stopped
+[2023-03-11T15:48:33.486Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/foo.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:33.486Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:33.716Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:33.843Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:33.848Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:33.848Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:33.877Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:33.878Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:43.970Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:44.099Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:44.104Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:44.104Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:44.131Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:44.132Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:54.234Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:54.370Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:48:54.375Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:54.376Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:48:54.404Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:48:54.405Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:04.500Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:49:04.631Z] info: Starting process with command "node" and args "test/server.js"
+[2023-03-11T15:49:04.636Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:04.636Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:04.666Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/test/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:04.666Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:15.285Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:15.424Z] info: Starting process with command "node" and args "fixtures/foo.js"
+[2023-03-11T15:49:15.428Z] info: All processes started
+[2023-03-11T15:49:15.431Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:15.432Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:15.432Z] info: All processes stopped
+[2023-03-11T15:49:15.562Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/foo.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:15.562Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:15.785Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:15.908Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:15.915Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:15.915Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:15.944Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:15.945Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:26.042Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:26.166Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:26.170Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:26.171Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:26.197Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:26.198Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:36.314Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:36.456Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:36.462Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:36.462Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:36.491Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:36.492Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:46.582Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:46.707Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:46.711Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:46.711Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:46.740Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:46.740Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:56.828Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:56.970Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:49:56.976Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:56.976Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:49:57.006Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:49:57.007Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:04.038Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:04.177Z] info: Starting process with command "node" and args "fixtures/foo.js"
+[2023-03-11T15:50:04.184Z] info: All processes started
+[2023-03-11T15:50:04.186Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:04.186Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:04.187Z] info: All processes stopped
+[2023-03-11T15:50:04.312Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/foo.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:04.313Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:04.541Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:04.663Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:04.668Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:04.668Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:04.696Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:04.698Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:14.788Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:14.909Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:14.915Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:14.916Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:14.943Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:14.944Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:25.035Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:25.160Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:25.167Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:25.167Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:25.195Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:25.196Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:35.288Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:35.409Z] info: Starting process with command "node" and args "fixtures/server.js"
+[2023-03-11T15:50:35.414Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:35.414Z] info: Process with command "node" exited with code 1
+[2023-03-11T15:50:35.443Z] error: Error message from process with command "node": node:internal/modules/cjs/loader:988
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/s00d/packeges/on-process-manager/fixtures/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2023-03-11T15:50:35.443Z] info: Process with command "node" exited with code 1
