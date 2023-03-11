@@ -9,11 +9,6 @@ import {Autostart} from "./demonize";
 
 const program = commander.program;
 
-const serviceName = 'process-manager';
-const serviceDescription = 'Process Manager';
-const nodeExecutablePath = '/usr/bin/node';
-const indexPath = '/path/to/index.ts';
-
 program
     .command('install')
     .description('Install the process manager as a systemd service')
