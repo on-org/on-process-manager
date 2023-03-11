@@ -1,6 +1,6 @@
 {
   "processes": [
-    { "command": "node", "args": ["worker.js"], "timeout": 5000 },
-    { "command": "node", "args": ["worker1.js"], "timeout": 5000 }
+    { "command": "node", "args": ["worker.js"], "timeout": 5 },
+    { "command": "node", "args": ["worker1.js"], "timeout": 5 }
   ]
 }
